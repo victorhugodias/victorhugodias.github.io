@@ -1,6 +1,6 @@
-## Pizzaria
-#### victorhugodias.github.io
+## Pizzaria - Html/Css/Js
+#### Colocar na URL: victorhugodias.github.io
 
-## Blog
-#### victorhugodias.github.io/blog
-#### victorhugodias.github.io/bio.html
+## Blog - Tarefa do Curso Alura
+#### Colocar na URL: victorhugodias.github.io/blog
+#### Colocar na URL: victorhugodias.github.io/bio.html
